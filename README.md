@@ -1,3 +1,3 @@
-# kaggle competitions
+# ML and data science
 
-This is a repository for my entries to kaggle competitions
+This is a repository for the small projects in Machine Learning and Data Science that I work on.
